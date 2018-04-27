@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "194662628683",
+    "firebase_url": "https://musicplayerzkdev.firebaseio.com",
+    "project_id": "musicplayerzkdev",
+    "storage_bucket": "musicplayerzkdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194662628683:android:2840e1fe7336ddb7",
+        "android_client_info": {
+          "package_name": "zloykurd.developer.musicplayerzkdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194662628683-vk63td0fun7bhugmm77r6sesc12cc72j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zloykurd.developer.musicplayerzkdev",
+            "certificate_hash": "24b62a8bafede5d7b9f4645dc271b84f0d4c0fc1"
+          }
+        },
+        {
+          "client_id": "194662628683-l5k4a8q45vm49p679nlrdt50c8jgnjjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA31diEmNuzs1LaDDaBCUZEJLGPktC4gFI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194662628683-l5k4a8q45vm49p679nlrdt50c8jgnjjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
